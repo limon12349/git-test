@@ -10,5 +10,8 @@ public class GitTest {
         System.out.println("conflict_hotfix");
         System.out.println("conflict_hotfix");
         System.out.println("conflict_hotfix github");
+        System.out.println("=====================");
+        System.out.println("conflict_hotfix");
+        System.out.println("conflict_hotfix pull test");
     }
 }
