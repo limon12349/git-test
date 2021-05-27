@@ -8,5 +8,7 @@ public class GitTest {
         System.out.println("helllo world3333_hotfix");
         System.out.println("conflict_master");
         System.out.println("conflict_hotfix");
+        System.out.println("conflict_hotfix");
+        System.out.println("conflict_hotfix github");
     }
 }
