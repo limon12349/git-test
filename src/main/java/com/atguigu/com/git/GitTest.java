@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("helllo world2222");
         System.out.println("helllo world3333");
         System.out.println("helllo world3333_hotfix");
+        System.out.println("conflict_hotfix");
     }
 }
